@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Postgres, Data Science
 - 💞️ I’m looking to collaborate on Data Science and AI to help automate and be productive
 - 📫 Reach me at sktarun1404@gmail.com
+- Interesting Repo to visit https://github.com/tarunsk1998/Movie-Review-Application
 
 <!---
 tarunsk1998/tarunsk1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
