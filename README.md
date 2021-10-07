@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunsk1998 alais Tarun S K
 - 👀 I’m interested in Python, Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Postgres, Data Science
-- 💞️ I’m looking to collaborate on Data Science and AI to help automate and be productive
+- 🌱 I’m currently focusing on Natural Language processing and Computer Vision
+- 💞️ I’m looking to collaborate on Data Science and AI to help automate and solve problems
 - 📫 Reach me at sktarun1404@gmail.com
 - Interesting Repo to visit
    1. https://github.com/tarunsk1998/Movie-Review-Application
